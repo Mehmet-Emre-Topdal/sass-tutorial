@@ -1,0 +1,1 @@
+abstract dosyası bir nevi uygulamada kullanılacak configler dosyasıdır
